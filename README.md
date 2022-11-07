@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Abualiy
 - 👀 I’m interested in Programming 
-- 🌱 I’m currently learning Software engineering 
+- 🌱 I’m currently learning Software engineering at Alx
 - 💞️ I’m looking to collaborate on something good
 - 📫 How to reach me on telegram t.me/abualiy2
 
