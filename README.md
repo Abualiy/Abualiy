@@ -12,13 +12,5 @@ I am currently working with a PLC technology company, where I combine my roles a
 ## 💻 Professional Role:
 As a software engineer, I contribute to developing innovative solutions and building applications. Alongside, I teach programming topics, empowering others to enter the tech industry. Moreover, I freelance on Upwork, working on various projects to expand my portfolio and keep my skills sharp.
 
-[My another github account](https://github.com/Alfeyn)
+## My another github account => [Alfeyn](https://github.com/Alfeyn)
 
-
-
-
-![Programmers And Coders Wallpapers HD By PCbots   Part   II PCbots (1)](https://user-images.githubusercontent.com/87162921/234808856-8b8bdd8d-1399-43bf-a68c-54ccd855f424.png)
-<!---
-Abualiy/Abualiy is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
