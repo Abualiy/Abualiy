@@ -12,6 +12,8 @@ I am currently working with a PLC technology company, where I combine my roles a
 ## 💻 Professional Role:
 As a software engineer, I contribute to developing innovative solutions and building applications. Alongside, I teach programming topics, empowering others to enter the tech industry. Moreover, I freelance on Upwork, working on various projects to expand my portfolio and keep my skills sharp.
 
+[My another github account](https://github.com/Alfeyn)
+
 
 
 
