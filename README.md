@@ -1,7 +1,7 @@
 
 
 ## 👋 Meet Akrem Muktar (Abualiy): A Passionate Software Engineer and Educator
-Greetings! I am Akrem Muktar, commonly known as Abualiy. I am thrilled to share a bit about my journey in the world of technology and software engineering.
+Greetings! I am Akrem Muktar, commonly known as Abualiy or AK. I am thrilled to share a bit about my journey in the world of technology and software engineering.
 
 ## 🎓 Educational Background:
 I graduated with a Certificate in Full-Stack Software Engineering from ALX, where I gained a comprehensive foundation in software development, covering both frontend and backend technologies. Additionally, I recently graduated from Haramaya University, further advancing my expertise in the field.
