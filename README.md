@@ -41,6 +41,6 @@ I actively work on **open-source projects, freelance gigs, and educational conte
 ## 📫 Let's Connect!  
 🌍 **Portfolio:** [akremmuktar.vercel.app](https://akremmuktar.vercel.app/)  
 💼 **LinkedIn:** [linkedin.com/in/akremmuktar](#)  
-📩 **Email:** [your-email@example.com](#)  
+📩 **Email:** [akremmuktar332@gmail.com](#)  
 
 🔹 Always open to collaborations, mentorship, and exciting projects! Let’s build something amazing together. 💡✨  
