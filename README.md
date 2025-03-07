@@ -1,16 +1,46 @@
+# 👋 Meet Akrem Muktar (Abualiy) – Software Engineer | Educator | Freelancer  
 
+## 🚀 About Me  
+Hey there! I'm **Akrem Muktar**, also known as **Abualiy (AK)**—a passionate **Software Engineer** and **Tech Educator** dedicated to building innovative solutions and empowering others through programming education.  
 
-## 👋 Meet Akrem Muktar (Abualiy): A Passionate Software Engineer and Educator
-Greetings! I am Akrem Muktar, commonly known as Abualiy or AK. I am thrilled to share a bit about my journey in the world of technology and software engineering.
+## 🎓 Education & Certifications  
+- 🎓 **ALX Full-Stack Software Engineering Graduate** – Gained expertise in **frontend & backend development**, working with modern frameworks and best practices.  
+- 🎓 **Haramaya University Graduate** – Further honed my technical and problem-solving skills in software engineering.  
 
-## 🎓 Educational Background:
-I graduated with a Certificate in Full-Stack Software Engineering from ALX, where I gained a comprehensive foundation in software development, covering both frontend and backend technologies. Additionally, I recently graduated from Haramaya University, further advancing my expertise in the field.
+## 💻 Professional Journey  
+🔹 **Software Engineer @ PLC Technology Company** – Developing scalable applications & driving digital transformation.  
+🔹 **Educator** – Teaching programming fundamentals & advanced concepts to aspiring developers.  
+🔹 **Freelancer on Upwork** – Delivering high-quality software solutions for global clients.  
 
-## 📚 Current Endeavors:
-I am currently working with a PLC technology company, where I combine my roles as a developer and an educator. My mission is to continuously grow in the ever-evolving field of software engineering and to share my knowledge with others.
+## 🔥 Skills & Technologies  
+🚀 **Frontend:** React.js, Next.js, Tailwind CSS, TypeScript, Framer Motion  
+🛠 **Backend:** Node.js, Express.js, MongoDB, Firebase  
+⚡ **Other Tools:** Git, Docker, Linux, REST APIs, GraphQL  
+🎨 **UI/UX:** DaisyUI, ShadCN, Figma  
 
-## 💻 Professional Role:
-As a software engineer, I contribute to developing innovative solutions and building applications. Alongside, I teach programming topics, empowering others to enter the tech industry. Moreover, I freelance on Upwork, working on various projects to expand my portfolio and keep my skills sharp.
+## 🌎 My Work & Contributions  
+I actively work on **open-source projects, freelance gigs, and educational content** to help others break into tech.  
 
-## 🐙 My another github account => [Alfeyn](https://github.com/Alfeyn)
+📌 **Check out my other GitHub profile:** [Alfeyn](https://github.com/Alfeyn)  
 
+## 📊 GitHub Stats  
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=AkremMuktar&show_icons=true&theme=radical" alt="GitHub Stats" />
+</div>  
+
+## 🚀 Top Languages  
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AkremMuktar&layout=compact&theme=radical" alt="Top Languages" />
+</div>  
+
+## 🏆 GitHub Trophies  
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=AkremMuktar&theme=radical&margin-w=15&margin-h=15" alt="GitHub Trophies" />
+</div>  
+
+## 📫 Let's Connect!  
+🌍 **Portfolio:** [akremmuktar.vercel.app](https://akremmuktar.vercel.app/)  
+💼 **LinkedIn:** [linkedin.com/in/akremmuktar](#)  
+📩 **Email:** [your-email@example.com](#)  
+
+🔹 Always open to collaborations, mentorship, and exciting projects! Let’s build something amazing together. 💡✨  
