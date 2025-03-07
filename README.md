@@ -14,7 +14,7 @@ Hey there! I'm **Akrem Muktar**, also known as **Abualiy (AK)**—a passionate *
 
 ## 🔥 Skills & Technologies  
 🚀 **Frontend:** React.js, Next.js, Tailwind CSS, TypeScript, Framer Motion  
-🛠 **Backend:** Node.js, Express.js, MongoDB, Firebase  
+🛠 **Backend:** Node.js, Express.js, MongoDB, Firebase, postgresql
 ⚡ **Other Tools:** Git, Docker, Linux, REST APIs, GraphQL  
 🎨 **UI/UX:** DaisyUI, ShadCN, Figma  
 
